@@ -1,0 +1,15 @@
+#f = open("one.txt","w")
+#f.write("Let's go to beach\n")
+#f.write("Let's party\n")
+#f.close()
+#f = open("one.txt","w")
+#f.write("Next Trip\n")
+#f.close()
+#f = open("one.txt","a")
+#f.write("Alright let's go for it\n")
+#f.close()
+#f = open("one.txt","w")
+#lines =["I'll Book the flight tickets\n"]
+#f.writelines(lines)
+#f.close()
+
